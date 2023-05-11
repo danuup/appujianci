@@ -43,6 +43,10 @@
                 <input type="text" class="form-control" id="nama" aria-describedby="nama">
             </div>
             <div class="mb-3">
+                <label for="exampleInputEmail2" class="form-label">Nim</label>
+                <input type="text" class="form-control" id="nim" aria-describedby="nim">
+            </div>
+            <div class="mb-3">
                 <label for="exampleInputPassword1" class="form-label">Umur</label>
                 <input type="number" class="form-control" id="umur">
             </div>

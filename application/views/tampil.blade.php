@@ -36,7 +36,9 @@
     <div class="row g-5">
       <div class="col-md-6">
         <h2 class="text-body-emphasis">Tampil Input Data</h2>
-        <p>Nama : </p>
+        <p>Nama : $nama </p>
+        <p>Nim :  $nim</p>
+        <p>Umur :  $umur</p>
       </div>
     </div>
   </main>
